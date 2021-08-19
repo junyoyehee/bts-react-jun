@@ -1,23 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+import './assets/scss/theme.scss';
+//import './assets/css/theme.css';
+//import './scss/main.scss';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <br></br>
+      <button class="btn btn-primary p-3">행복한 마음으로1</button>
+      <button type="button" class="btn btn-primary ms-1 p-3 ">Primary</button>
+
     </div>
   );
 }
