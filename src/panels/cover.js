@@ -17,7 +17,7 @@ function Cover(){
                 </div>
             </header>            
             <main class="px-3">
-                <h1 class="py-3">AI-들의 신기방기 학습공간</h1>
+                <h1 class="py-3">AI들의 신기방기 학습공간</h1>
                 <p class="lead py-3">AI들과 다른 공간에서의 학교생활을 즐겨 보세요. AI들의 마음을 사로잡아 나만의 AI를 육성하고 누군가에게 자랑하는 기회를 가져보세요.</p>
                 <p class="lead">
                 <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">시작하기</a>
