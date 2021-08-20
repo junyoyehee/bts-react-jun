@@ -1,16 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+//import logo from './logo.svg';
+//import './App.css';
 // import './assets/scss/theme.scss';
 import './scss/main.scss';
+import Cover from './panels/cover';
 
 
 function App() {
   return (
-    <div className="App">
-      <br></br>
-      <button class="btn btn-primary p-3">행복한 마음으로1</button>
-      <button type="button" class="btn btn-primary ms-1 p-3 ">Primary</button>
-
+    <div>
+      <Cover/>
     </div>
   );
 }
