@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bts-react-jun/static/css/main.3432969b.chunk.css",
+    "main.js": "/bts-react-jun/static/js/main.f7a628eb.chunk.js",
+    "main.js.map": "/bts-react-jun/static/js/main.f7a628eb.chunk.js.map",
+    "runtime-main.js": "/bts-react-jun/static/js/runtime-main.4ca57839.js",
+    "runtime-main.js.map": "/bts-react-jun/static/js/runtime-main.4ca57839.js.map",
+    "static/js/2.983e5051.chunk.js": "/bts-react-jun/static/js/2.983e5051.chunk.js",
+    "static/js/2.983e5051.chunk.js.map": "/bts-react-jun/static/js/2.983e5051.chunk.js.map",
+    "static/js/3.a25f0f46.chunk.js": "/bts-react-jun/static/js/3.a25f0f46.chunk.js",
+    "static/js/3.a25f0f46.chunk.js.map": "/bts-react-jun/static/js/3.a25f0f46.chunk.js.map",
+    "index.html": "/bts-react-jun/index.html",
+    "static/css/main.3432969b.chunk.css.map": "/bts-react-jun/static/css/main.3432969b.chunk.css.map",
+    "static/js/2.983e5051.chunk.js.LICENSE.txt": "/bts-react-jun/static/js/2.983e5051.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/bts-react-jun/static/media/dots-pattern.58f3b03e.svg",
+    "static/media/logo.6ce24c58.svg": "/bts-react-jun/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ca57839.js",
+    "static/js/2.983e5051.chunk.js",
+    "static/css/main.3432969b.chunk.css",
+    "static/js/main.f7a628eb.chunk.js"
+  ]
+}
