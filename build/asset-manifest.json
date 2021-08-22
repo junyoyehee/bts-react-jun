@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/bts-react-jun/static/css/main.89439e56.chunk.css",
-    "main.js": "/bts-react-jun/static/js/main.9c594e0f.chunk.js",
-    "main.js.map": "/bts-react-jun/static/js/main.9c594e0f.chunk.js.map",
-    "runtime-main.js": "/bts-react-jun/static/js/runtime-main.f567f5d7.js",
-    "runtime-main.js.map": "/bts-react-jun/static/js/runtime-main.f567f5d7.js.map",
-    "static/js/2.8ea47c5d.chunk.js": "/bts-react-jun/static/js/2.8ea47c5d.chunk.js",
-    "static/js/2.8ea47c5d.chunk.js.map": "/bts-react-jun/static/js/2.8ea47c5d.chunk.js.map",
-    "static/js/3.158091d5.chunk.js": "/bts-react-jun/static/js/3.158091d5.chunk.js",
-    "static/js/3.158091d5.chunk.js.map": "/bts-react-jun/static/js/3.158091d5.chunk.js.map",
+    "main.css": "/bts-react-jun/static/css/main.31a9568e.chunk.css",
+    "main.js": "/bts-react-jun/static/js/main.7fa1d411.chunk.js",
+    "main.js.map": "/bts-react-jun/static/js/main.7fa1d411.chunk.js.map",
+    "runtime-main.js": "/bts-react-jun/static/js/runtime-main.c209708b.js",
+    "runtime-main.js.map": "/bts-react-jun/static/js/runtime-main.c209708b.js.map",
+    "static/css/2.d0d63cc3.chunk.css": "/bts-react-jun/static/css/2.d0d63cc3.chunk.css",
+    "static/js/2.bc3aea25.chunk.js": "/bts-react-jun/static/js/2.bc3aea25.chunk.js",
+    "static/js/2.bc3aea25.chunk.js.map": "/bts-react-jun/static/js/2.bc3aea25.chunk.js.map",
+    "static/js/3.9e19b13f.chunk.js": "/bts-react-jun/static/js/3.9e19b13f.chunk.js",
+    "static/js/3.9e19b13f.chunk.js.map": "/bts-react-jun/static/js/3.9e19b13f.chunk.js.map",
     "index.html": "/bts-react-jun/index.html",
-    "static/css/main.89439e56.chunk.css.map": "/bts-react-jun/static/css/main.89439e56.chunk.css.map",
-    "static/js/2.8ea47c5d.chunk.js.LICENSE.txt": "/bts-react-jun/static/js/2.8ea47c5d.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/bts-react-jun/static/media/dots-pattern.58f3b03e.svg"
+    "static/css/2.d0d63cc3.chunk.css.map": "/bts-react-jun/static/css/2.d0d63cc3.chunk.css.map",
+    "static/css/main.31a9568e.chunk.css.map": "/bts-react-jun/static/css/main.31a9568e.chunk.css.map",
+    "static/js/2.bc3aea25.chunk.js.LICENSE.txt": "/bts-react-jun/static/js/2.bc3aea25.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bts-react-jun/static/media/RixToyStory.a7ef33aa.ttf",
+    "static/media/bootstrap-icons.css": "/bts-react-jun/static/media/bootstrap-icons.dfd0ea12.woff2",
+    "static/media/main.scss": "/bts-react-jun/static/media/dots-pattern.58f3b03e.svg",
+    "static/media/geeksui-img-1.1bd488ce.jpg": "/bts-react-jun/static/media/geeksui-img-1.1bd488ce.jpg",
+    "static/media/geeksui-img-2.a2026e47.jpg": "/bts-react-jun/static/media/geeksui-img-2.a2026e47.jpg",
+    "static/media/geeksui-img-3.33a36718.jpg": "/bts-react-jun/static/media/geeksui-img-3.33a36718.jpg",
+    "static/media/geeksui-img-4.72479507.jpg": "/bts-react-jun/static/media/geeksui-img-4.72479507.jpg",
+    "static/media/geeksui-img-5.b5dfc9c0.jpg": "/bts-react-jun/static/media/geeksui-img-5.b5dfc9c0.jpg",
+    "static/media/geeksui-img-6.4b010732.jpg": "/bts-react-jun/static/media/geeksui-img-6.4b010732.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f567f5d7.js",
-    "static/js/2.8ea47c5d.chunk.js",
-    "static/css/main.89439e56.chunk.css",
-    "static/js/main.9c594e0f.chunk.js"
+    "static/js/runtime-main.c209708b.js",
+    "static/css/2.d0d63cc3.chunk.css",
+    "static/js/2.bc3aea25.chunk.js",
+    "static/css/main.31a9568e.chunk.css",
+    "static/js/main.7fa1d411.chunk.js"
   ]
 }
