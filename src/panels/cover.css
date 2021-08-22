@@ -11,6 +11,17 @@
   text-shadow: none; /* Prevent inheritance from `body` */
 }
 
+.bi{
+    font-size: 5rem;
+}
+
+.home-door-text {
+    font-size: 1.2rem;
+    font-family:'bm-hanna','rixtostory';
+    
+}
+
+
 
 /*
  * Base structure
